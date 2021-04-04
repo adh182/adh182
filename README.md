@@ -1,6 +1,6 @@
 Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Adh. I’m currently learning physics. My concetration is Computational Physics and Modelling. I am also interested in Machine Learning and Data Science.
+My name is Adh. I’m currently learning physics. My concentration is Computational Physics and Modelling. I am also interested in Machine Learning and Data Science.
 
 📫 How to reach me ...
 
