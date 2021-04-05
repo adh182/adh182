@@ -5,6 +5,7 @@ My name is Adh. I’m currently learning physics. My concentration is Computatio
 📫 How to reach me ...
 
 [![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:adh.isl.almrjl@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/islamuddin-alimurrijal-1a671520a/)
 
 <!---
 adh182/adh182 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
