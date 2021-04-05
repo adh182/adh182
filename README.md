@@ -10,6 +10,7 @@ My name is Adh. I’m currently learning physics. My concentration is Computatio
 
 <p float="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adh182&theme=gruvbox&show_icons=true" height=180px />
+  <br><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adh182&hide=css,html&layout=compact&theme=gruvbox" height=180px />
 </p>
 
