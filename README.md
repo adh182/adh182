@@ -1,4 +1,4 @@
-Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Adh. I’m currently learning physics. My concentration is Computational Physics and Modelling. I am also interested in Machine Learning and Data Science.
 
@@ -8,12 +8,18 @@ My name is Adh. I’m currently learning physics. My concentration is Computatio
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/islamuddin-alimurrijal-1a671520a/)
 [![Kaggle](https://img.shields.io/badge/--linkedin?label=Kaggle&logo=Kaggle&style=social)](https://www.kaggle.com/ialimurrijal)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${adh182}.${adh182/README.md})
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=${adh182}.${adh182/README.md}) -->
 
 <p float="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adh182&theme=gruvbox&show_icons=true" height=180em />
-  &nbsp &nbsp &nbsp
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adh182&hide=css,html&layout=compact&theme=gruvbox" height=180em />
+  <details>
+  <summary>:zap: GitHub Stats</summary>
+  &emsp; &emsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=adh182&theme=gruvbox&show_icons=true" height=180em />
+  </details>
+  
+  <details>
+  <summary>:desktop_computer: Most Used Languages</summary>
+  &emsp; &emsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adh182&hide=css,html&layout=compact&theme=gruvbox" height=180em />
+  </details>
 </p>
 
 <!---
