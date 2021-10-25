@@ -14,7 +14,7 @@ My name is Adh. I’m currently learning physics. My concentration is Computatio
 <p float="left">
   <details>
   <summary>:zap: GitHub Stats</summary>
-  &emsp; &emsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=adh182&theme=gruvbox&show_icons=true" height=180em />
+  &emsp; &emsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=adh182&theme=gruvbox&show_icons=true" height=160em />
   </details>
   
   <details>
