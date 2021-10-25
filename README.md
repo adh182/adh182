@@ -8,10 +8,12 @@ My name is Adh. I’m currently learning physics. My concentration is Computatio
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/islamuddin-alimurrijal-1a671520a/)
 [![Kaggle](https://img.shields.io/badge/--linkedin?label=Kaggle&logo=Kaggle&style=social)](https://www.kaggle.com/ialimurrijal)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${adh182}.${adh182/README.md})
+
 <p float="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adh182&theme=gruvbox&show_icons=true" height=180px />
-  <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adh182&hide=css,html&layout=compact&theme=gruvbox" height=180px />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adh182&theme=gruvbox&show_icons=true" height=180em />
+  &nbsp &nbsp &nbsp
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adh182&hide=css,html&layout=compact&theme=gruvbox" height=180em />
 </p>
 
 <!---
