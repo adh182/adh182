@@ -18,7 +18,7 @@ My name is Adh. I’m currently learning physics. My concentration is Computatio
   
   <details>
   <summary>:desktop_computer: Most Used Languages</summary>
-  &emsp; &emsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adh182&hide=css,html&layout=compact&theme=gruvbox" height=180em />
+  &emsp; &emsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adh182&hide=jupyter notebook,ruby&layout=compact&theme=gruvbox" height=180em />
   </details>
 </p>
 
