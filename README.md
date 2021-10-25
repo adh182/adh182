@@ -8,7 +8,7 @@ My name is Adh. I’m currently learning physics. My concentration is Computatio
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/islamuddin-alimurrijal-1a671520a/)
 [![Kaggle](https://img.shields.io/badge/--linkedin?label=Kaggle&logo=Kaggle&style=social)](https://www.kaggle.com/ialimurrijal)
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=${adh182}.${adh182/README.md}) -->
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=${adh182}.${adh182/adh182}) -->
 
 <p float="left">
   <details>
