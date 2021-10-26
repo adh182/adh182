@@ -10,7 +10,7 @@ My name is Adh. I’m currently learning physics. My concentration is Computatio
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=${adh182}.${adh182/adh182}) -->
 
-<img align="right" alt="GIF" src="https://github.com/adh182/adh182/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/adh182/adh182/blob/master/coding.gif?raw=true" width="398" height="308" />
 <p float="left">
   <details>
   <summary>:zap: GitHub Stats</summary>
