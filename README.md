@@ -14,12 +14,12 @@ My name is Adh. I’m currently learning physics. My concentration is Computatio
 <p float="left">
   <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adh182&theme=gruvbox&show_icons=true" height=160em />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adh182&theme=gruvbox&show_icons=true" height=150em />
   </details>
   
   <details>
   <summary>:desktop_computer: Most Used Languages</summary>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adh182&hide=jupyter notebook,ruby&layout=compact&theme=gruvbox" height=180em />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adh182&hide=jupyter notebook,ruby&layout=compact&theme=gruvbox" height=170em />
   </details>
 </p>
 
