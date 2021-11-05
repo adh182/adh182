@@ -2,7 +2,7 @@ Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/ma
 
 My name is Adh. I’m currently learning physics. My concentration is Computational Physics and Modelling. I am also interested in Machine Learning and Data Science.
 
-#### 📫 How to reach me ...
+#### 📫 How to reach me ....
 
 [![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:adh.isl.almrjl@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/islamuddin-alimurrijal-1a671520a/)
