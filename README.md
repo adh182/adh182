@@ -1,6 +1,6 @@
 Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Adh. I’m a final year Physics student. My concentration is Computational Physics and Modelling. I have interest in Machine Learning and Quantum Computing.
+My name is Adh. I’m a final year Physics student. My concentration is Computational Physics. I have interest in Machine Learning and Quantum Computing.
 
 #### 📫 How to reach me ....
 
