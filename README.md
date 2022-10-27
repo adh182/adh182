@@ -22,6 +22,7 @@ My name is Adh. I have interest in Machine Learning and Quantum Computing.
   <details>
   <summary>:desktop_computer: Most Used Languages</summary>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adh182&hide=jupyter notebook,ruby&layout=compact&theme=gruvbox" height=170em />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adh182&hide=jupyter notebook,ruby&layout=compact&theme=gruvbox" height=170em /> -->
   </details>
 </p>
 
