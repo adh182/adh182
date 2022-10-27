@@ -11,10 +11,12 @@ My name is Adh. I have interest in Machine Learning and Quantum Computing.
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${adh182}.${adh182/adh182})   
 
 <img align="right" alt="GIF" src="https://github.com/adh182/adh182/blob/master/coding.gif?raw=true" width="398" height="308" />
+
 <p float="left">
   <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adh182&theme=gruvbox&show_icons=true" height=150em />
+  <img align="center" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adh182&show_icons=true&theme=radical)" height=150em />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adh182&theme=gruvbox&show_icons=true" height=150em /> -->
   </details>
   
   <details>
