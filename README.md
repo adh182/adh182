@@ -25,7 +25,6 @@ My name is Adh. I have interest in Machine Learning and Quantum Computing.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adh182&hide=jupyter%20notebook,ruby&layout=compact&theme=gruvbox" height=170em />
   </details>
 </p>
-![aa](https://github-readme-stats.vercel.app/api/top-langs/?username=adh182&hide=jupyter notebook,ruby&layout=compact&theme=gruvbox)
 
 <!---
 adh182/adh182 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
