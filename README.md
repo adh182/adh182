@@ -16,12 +16,10 @@ My name is Adh. I have interest in Machine Learning and Quantum Computing.
   <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adh182&show_icons=true&theme=gruvbox" height=150em />
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adh182&theme=gruvbox&show_icons=true" height=150em /> -->
   </details>
   
   <details>
   <summary>:desktop_computer: Most Used Languages</summary>
-<!--   <img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=adh182&hide=jupyter notebook,ruby&layout=compact" height=170em /> -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adh182&hide=jupyter%20notebook,ruby&layout=compact&theme=gruvbox" height=170em />
   </details>
 </p>
