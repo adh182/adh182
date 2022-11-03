@@ -27,4 +27,4 @@ My name is Adh. I have interest in Machine Learning and Quantum Computing.
 <!---
 adh182/adh182 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+---> 
