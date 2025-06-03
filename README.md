@@ -8,8 +8,6 @@ My name is Adh. I have interest in Machine Learning and Quantum Computing.
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/islamuddin-alimurrijal-1a671520a/)
 [![Kaggle](https://img.shields.io/badge/--linkedin?label=Kaggle&logo=Kaggle&style=social)](https://www.kaggle.com/ialimurrijal)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${adh182}.${adh182/adh182})   
-
 <img align="right" alt="GIF" src="https://github.com/adh182/adh182/blob/master/coding.gif?raw=true" width="398" height="308" />
 
 <p float="left">
